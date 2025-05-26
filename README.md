@@ -80,7 +80,11 @@ we created an express server configured cors and connect mongo db to express ser
     install tawilwind 
     install shadcnui tailwind
 
-11 
+11 AT 44.50 in vedio
+Client > src > component > auth > layout.jx
+From here we can change the auth layout function.
+
+app.jx for dashbaord editing
 
 
 
